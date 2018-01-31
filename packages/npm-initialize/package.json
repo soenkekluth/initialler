@@ -1,0 +1,10 @@
+{
+  "name": "npm-initialize",
+  "description": "let \"npm init\" create everything you wish when starting a new project.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "<mail@soenkekluth.com> (https://soenkekluth.com/)",
+  "license": "MIT",
+  "repository": "soenkekluth/initialler",
+  "bugs": "https://github.com/soenkekluth/initialler/issues"
+}

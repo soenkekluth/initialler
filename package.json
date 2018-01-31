@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/initialler.git"
+  },
+  "author": "Sönke Kluth <mail@soenkekluth.com> (https://soenkekluth.com/)",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/initialler/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/initialler#readme",
+  "license": "MIT",
+  "workspaces": ["packages/*"],
+  "dependencies": {
+    "lerna": "^2.8.0"
+  }
+}
